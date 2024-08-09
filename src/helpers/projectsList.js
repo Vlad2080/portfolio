@@ -47,10 +47,11 @@ const projects = [
     },
 
     {
-        title: 'Landing (sample project)',
+        title: 'Note Taking App',
         img: project05,
         imgBig: project05Big,
-        skills: 'HTML, SCSS, JS',
+        skills: 'React',
+        gitHubLink: 'https://github.com/Vlad2080/notes',
     },
     {
         title: 'Dating app (sample project)',
