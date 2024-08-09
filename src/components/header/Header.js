@@ -11,7 +11,7 @@ const Header = () => {
                     <br />I am a React developer
                 </h1>
                 <div className="header__text">
-                    <p>I have 1 year of experience and <strong>6 projects</strong> in my portfolio. </p>
+                    <p>I have 1 year of experience and <strong>5 projects</strong> in my portfolio. </p>
                 </div>
                 <a href="https://www.linkedin.com/in/vvitkovskiy/" className="btn" target="_blank" rel="noreferrer">
                     See my LinkedIn profile
